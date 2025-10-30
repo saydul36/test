@@ -71,12 +71,12 @@
 ---
 
 ## 🎬 Animated Showcase
-<div align="">
+<div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Animated Video 1" width="45%" style="margin: 10px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);" />
-</div>
-<div align="">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
 </div>
+
 
 ---
 <!-- Coding Activity Stats -->
@@ -101,6 +101,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=saydul36&icon=4&color=1)](https://visitcount.itsvg.in)
+
 
 
 
