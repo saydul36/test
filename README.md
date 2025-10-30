@@ -86,18 +86,23 @@
 ---
 
 ### ✍️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+</div>
 
 ---
 
 ### 🔝 Top Contributed Repo
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=saydul36&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saydul36&icon=4&color=1)](https://visitcount.itsvg.in)
 
 
 [![](https://visitcount.itsvg.in/api?id=saydul36&icon=4&color=1)](https://visitcount.itsvg.in)
+
 
 
 
